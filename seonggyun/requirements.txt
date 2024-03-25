@@ -1,0 +1,10 @@
+pandas
+urllib
+json
+requests
+re
+bs4
+lxml
+collections
+xml
+os
